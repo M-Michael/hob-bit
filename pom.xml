@@ -5,4 +5,19 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>hobbit</name>
   <description>hobbit description</description>
+
+<!--   
+  <dependencies>
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>ejb3-persistence</artifactId>
+      <version>1.0.2.GA</version>
+    </dependency>
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-annotations</artifactId>
+      <version>3.5.6-Final</version>
+    </dependency>
+  </dependencies>
+   -->
 </project>
